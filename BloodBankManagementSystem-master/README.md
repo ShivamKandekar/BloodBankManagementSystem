@@ -7,7 +7,6 @@ Blood Bank Management System, App that manages the detail of the donor in Blood 
 2. MS SQL Server 2014
 3. Microsoft Visual Studio (2015)
 4. Git & Github (Version Control)
-
 ## Features
 1. Manage Users (Add, Update, Search, Delete)
 2. Simple Authentication (Login/Logout)
